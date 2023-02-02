@@ -1,0 +1,28 @@
+---
+title: "Love Data"
+subtitle: "Data Management for Lovely Data"
+format:
+  revealjs:
+    theme: [default, assets/custom.scss]
+    logo: assets/dsi.png
+---
+
+## Love letters 💌
+
+In as few of words as possible, describe your data
+
+::: callout-important
+Include descriptors of the type, source, units, and format of your data
+:::
+
+## Sharing (your data) is caring 💌
+
+FAIR/CARE discussions
+
+## NIH Data Management Plan 2023 Policy Update
+
+[UArizona Library Resource](https://data.library.arizona.edu/data-management/nih-data-management-sharing-policy-2023)
+
+[🏆 Example Data Management & Sharing Plan](https://dmphub.cdlib.org/dmps/doi:10.48321/D1BK5T)
+
+## Budget for data-care
